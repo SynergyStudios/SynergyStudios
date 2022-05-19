@@ -27,4 +27,4 @@ Nothing notable *yet*, coming soon!
 Nothing notable *yet*, coming soon!
 
 ### 🏙️ Socials
-To be added
+Our Official [Discord](https://discord.gg/SynergyStudios)
