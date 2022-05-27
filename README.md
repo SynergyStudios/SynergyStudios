@@ -1,7 +1,7 @@
 # Welcome to Synergy Studios! 👋
 
 ### 🚀 About the Team
-The Synergy Studios Team is a group of **school-age teenagers** committed to innovating, creating, and having fun using code. We develop projects in Python, Java, C#, Unity, HTML, CSS, and Lua, to name a few languages. We develop code, make music, draw and express our creativity!
+The **Synergy Studios Team** is a group of **school-age teenagers** committed to innovating, creating, and having fun using code. We develop projects in Python, Java, C#, Unity, HTML, CSS, and Lua, to name a few languages. We develop code, make music, draw and express our creativity!
 
 ### 📊 Team Info
 The team was founded on **Sep 3, 2021**, with the birth of the [KahootOnline Project](https://github.com/Toblobs/kahootOnline) (still running). The team currentlty has *6* members. On **May 18th, 2022**, an official Discord Server was founded. 
@@ -22,12 +22,12 @@ Nothing notable *yet*, coming soon!
 Nothing notable *yet*, coming soon!
 
 ### 📝 Upcoming Projects
-- *KahootOnline v2*, a remake of @Toblobs KahootOnline with added GUI
-- *Missiles!*, a remake of the popular game Missiles in Python
+- *KahootOnline v2*, a remake of @Toblobs KahootOnline with added GUI [**In Development**]
+- *Missiles!*, a remake of the popular game Missiles in Python [**In Development**]
 
 ### ✍️ Extra Notes
 Nothing notable *yet*, coming soon!
 
 ### 🏙️ Socials
 - Our Official [Discord](https://discord.gg/SynergyStudios), come chat with us!
-- Our Official [Youtube](), for updates on projects.
+- Our Official [Youtube](), for updates on projects and extra info!
