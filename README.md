@@ -7,9 +7,8 @@ The **Synergy Studios Team** is a group of **school-age teenagers** committed to
 The team was founded on **Sep 3, 2021**, with the birth of the [KahootOnline Project](https://github.com/Toblobs/kahootOnline) (still running). The team currentlty has *6* members. On **May 18th, 2022**, an official Discord Server was founded. 
 
 ### 🧑‍🤝‍🧑 Team Members
-- Tobiloba Kujore *Dev* - **September 3**
+- Tobiloba Kujore *Team Leader* - **September 3**
 - Sam Booker *Dev* - **September 3**
-- Daniel Eldridge *Dev* - **November 15**
 - Jaden Fransisco *Music/Graphics* - **November 22**
 - Albert Waldron *Dev/Graphics* - **May 18**
 - Markus Chnapko *Dev* - **May 18**
@@ -26,7 +25,7 @@ Nothing notable *yet*, coming soon!
 - *Missiles!*, a remake of the popular game Missiles in Python [**In Development**]
 
 ### ✍️ Extra Notes
-Nothing notable *yet*, coming soon!
+The Official Discord is scheduled to open 12 July, 2022.
 
 ### 🏙️ Socials
 - Our Official [Discord](https://discord.gg/SynergyStudios), come chat with us!
