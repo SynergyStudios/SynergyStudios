@@ -13,9 +13,11 @@ The team was founded on **Sep 3, 2021**, with the birth of the [KahootOnline Pro
 - Albert Waldron *Dev/Graphics* - **May 18**
 - Markus Chnapko *Dev* - **May 18**
 - Aidan Liang *Dev* - **May 21**
+- Adam Fawell *Support*
 
 ### 🥇 Achievements
-Nothing notable *yet*, coming soon!
+Discord Server: 10 members
+
 
 ### ✔️ Finished Projects
 Nothing notable *yet*, coming soon!
@@ -28,5 +30,5 @@ Nothing notable *yet*, coming soon!
 The Official Discord is scheduled to open 12 July, 2022.
 
 ### 🏙️ Socials
-- Our Official [Discord](https://discord.gg/SynergyStudios), come chat with us!
+- Our Official [Discord](https://discord.gg/czKZS9gE4R), come chat with us!
 - Our Official [Youtube](), for updates on projects and extra info!
