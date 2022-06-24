@@ -14,6 +14,7 @@ The team was founded on **Sep 3, 2021**, with the birth of the [KahootOnline Pro
 - Markus Chnapko *Dev* - **May 18**
 - Aidan Liang *Dev* - **May 21**
 - Adam Fawell *Support* - **May 15**
+- Adam Burrows *Support* - **June 17**
 
 ### 🥇 Achievements
 Discord Server: 10 members
@@ -22,8 +23,8 @@ Discord Server: 10 members
 Nothing notable *yet*, coming soon!
 
 ### 📝 Upcoming Projects
-- *KahootOnline v2*, a remake of @Toblobs KahootOnline with added GUI [**In Development**]
-- *Missiles!*, a remake of the popular game Missiles in Python [**In Development**]
+- *KahootOnline v2*, a remake of @Toblobs KahootOnline with added GUI [**In Development**] v1.0
+- *Missiles!*, a remake of the popular game Missiles in Python [**In Development**] v1.0
 
 ### ✍️ Extra Notes
 The Official Discord is scheduled to open 12 July, 2022.
