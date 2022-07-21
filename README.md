@@ -13,7 +13,7 @@ The team was founded on **Sep 3, 2021**, with the birth of the [KahootOnline Pro
 - Jaden Francisco *Music/Graphics* - **November 22**
 - Albert Waldron *Dev/Graphics* - **May 18**
 - Markus Chnapko *Dev* - **May 18**
-- Adam Fawell *Story/Support* - **May 15**
+- Auden *Graphics* - **July 21**
 - Adam Burrows *Support* - **June 17**
 - Felix Ford *Music* - **July 08**
 - Jack Learmouth **Story/Support** - **July 08**
@@ -26,9 +26,9 @@ Team: 10 members [08/07]
 Nothing notable *yet*, coming soon!
 
 ### 📝 Upcoming Projects
-- *KahootOnline v2*, a remake of @Toblobs KahootOnline with added GUI [**In Development**] (v1.0) view the project [here](https://github.com/SynergyStudios/KahootOnline-v2)
-- *Missiles!*, a remake of the popular game Missiles in Python [**In Development**] (v1.0) view the project [here]()
-- *RPGOnline*, an online multiplayer RPG-style Python game [**In Development**] (v1.0) view the project [here](https://github.com/SynergyStudios/RPGOnline)
+- *KahootOnline v2*, a remake of @Toblobs KahootOnline with added GUI [**In Development**] (v1.0) (view the project [here](https://github.com/SynergyStudios/KahootOnline-v2))
+- *Missiles!*, a remake of the popular game Missiles in Python [**In Development**] (v1.0)
+- *RPGOnline*, an online multiplayer RPG-style Python game [**In Development**] (v1.0)
 
 ### ✍️ Extra Notes
 The Official Discord is scheduled to open to the public: July, 2022.
