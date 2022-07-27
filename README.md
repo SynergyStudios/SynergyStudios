@@ -13,7 +13,7 @@ The team was founded on **Sep 3, 2021**, with the birth of the [KahootOnline Pro
 - Jaden Francisco *Music/Graphics* - **November 22**
 - Albert Waldron *Dev/Graphics* - **May 18**
 - Markus Chnapko *Dev* - **May 18**
-- Auden *Graphics* - **July 21**
+- Auden O'Keefe *Graphics* - **July 21**
 - Adam Burrows *Support* - **June 17**
 - Felix Ford *Music* - **July 08**
 - Jack Learmouth **Story/Support** - **July 08**
