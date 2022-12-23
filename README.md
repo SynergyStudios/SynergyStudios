@@ -9,18 +9,6 @@ The team was founded on **Sep 3, 2021**, with the birth of the [KahootOnline Pro
 ### 🧑‍🤝‍🧑 Team Members
 Currently, the Team employs **8 full time** and **2 part time** members.
 
-- Tobiloba Kujore *Team Leader* - **September 03** (@Toblobs) 
-- Daniel Eldridge *Dev/Support* - **September 03** (@DanielIsUncoolio)
-- Jaden Francisco *Music/Graphics* - **May 18**
-- Albert Waldron *Dev/Graphics* - **May 18**
-- Markus Chnapko *Dev/Support* - **May 18**
-- Felix Ford *Music* - **July 08**
-- Jack Learmouth **Story/Support** - **July 08**
-- Adam Burrows **Support** - **TBD**
-
-- Sam Booker *Dev* - **September 03** (@suchasaltylemon)
-- ... 
-
 ### 🥇 Achievements
 Discord Server: 10 members [NA]
 Team: 10 members [08/07]
