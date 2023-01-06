@@ -1,17 +1,14 @@
 # Welcome to Synergy Studios! 👋
 
 ### 🚀 About the Team
-The **Synergy Studios Team** is a group of **school-age teenagers** committed to innovating, creating, and having fun using code. We develop projects in Python, Java, C#, Unity, HTML, CSS, and Lua, to name a few languages. We develop code, make music, draw and express our creativity!
+The **Synergy Studios Team** is a group of **school-age teenagers** committed to innovating, creating, and having fun using code. We develop projects in Python, Java, C#, Unity, HTML, CSS, and Javascript, to name a few languages. We develop code, make music, draw and express our creativity!
 
 ### 📊 Team Info
-The team was founded on **Sep 3, 2021**, with the birth of the [KahootOnline Project](https://github.com/Toblobs/kahootOnline) (still running). On **May 18th, 2022**, an official Discord Server was founded. The team is currently working on 3 projects.
+The team was founded on **Sep 3, 2021**, with the birth of the [KahootOnline Project](https://github.com/Toblobs/kahootOnline) (still running). On **May 18th, 2022**, an official Discord Server was founded. 
 
-### 🧑‍🤝‍🧑 Team Members
-Currently, the Team employs **8 full time** and **2 part time** members.
 
 ### 🥇 Achievements
-Discord Server: 10 members [NA]
-Team: 10 members [08/07]
+None yet.
 
 ### ✔️ Finished Projects
 Nothing notable *yet*, coming soon!
@@ -22,9 +19,8 @@ Nothing notable *yet*, coming soon!
 - *RPGOnline*, an online multiplayer RPG-style Python game [**In Development**] (v1.0) (in beta)
 
 ### ✍️ Extra Notes
-Synergy Studios YouTube Opening Scheduled:
-Synergy Studios Discord Opening Scheduled:
+
 
 ### 🏙️ Socials
-- Our Official [Discord](https://discord.gg/czKZS9gE4R), come chat with us!
+- Our Official [Discord](https://discord.gg/AdEGqrWKdE), come chat with us!
 - Our Official [Youtube](https://www.youtube.com/channel/UCgo0Sm-5d-2Sgp6VEswnruw), for updates on projects and extra info!
