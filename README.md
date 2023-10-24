@@ -19,8 +19,7 @@ Nothing notable *yet*, coming soon!
 - *RPGOnline*, an online multiplayer RPG-style Python game [**In Development**] (v1.0) (in beta)
 
 ### ✍️ Extra Notes
-
+TBA.
 
 ### 🏙️ Socials
-- Our Official [Discord](https://discord.gg/AdEGqrWKdE), come chat with us!
-- Our Official [Youtube](https://www.youtube.com/channel/UCgo0Sm-5d-2Sgp6VEswnruw), for updates on projects and extra info!
+TBA.
